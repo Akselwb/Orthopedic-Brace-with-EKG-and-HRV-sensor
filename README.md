@@ -1,2 +1,3 @@
 # Orthopedic-Brace-with-EKG-and-HRV-sensor
-Design project for Dr. Henstenberg
+Design project for Dr. Henstenberg.
+For this project the team was chosen to design a device that could monitor the ECG and HRV data of an patient who wears a scoliosis brace. This required the team to design a circuit and an attachment that monitors the heart rate of the patients. The team then created a circuit housing unit to protect the circuit using SOLIDWORKS and a bambu labs 3D printer. Then the team sewed a pocket that allowed the device to remain attached to the scoliosis brace. The code for this project counts heart beats and records the R-R interval. 
